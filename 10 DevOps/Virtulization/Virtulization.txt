@@ -1,0 +1,11 @@
+What is Virtual Networking?
+https://www.c-sharpcorner.com/article/what-is-virtual-networking2/
+
+
+
+Introduction to Network Virtualization
+https://www.c-sharpcorner.com/article/introduction-and-what-is-network-virtualization/
+https://www.sarthakvarshney.me/
+
+
+
